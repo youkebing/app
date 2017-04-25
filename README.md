@@ -2,7 +2,7 @@
 
 ![](app/qrcode.png)
 
-### 无锡路通视信网络股份有限公司
+###  Lootom Telco-video Network(Wuxi).CO.,LTD
 [lootom](http://www.lootom.com)
 
 ### ios app
