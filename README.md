@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-[Iphone Download](app/app.html)
+### ios app
 
-<a title="iPhone" href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/youkebing/app/master/app/myapp.plist">xiazaichengxu</a>
+<a title="iPhone" href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/youkebing/app/master/app/myapp.plist">ios app download</a>
 
 You can use the [editor on GitHub](https://github.com/youkebing/app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
