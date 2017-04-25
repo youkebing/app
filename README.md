@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![](app/qrcode.png)
+
 ### ios app
 
 <a title="iPhone" href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/youkebing/app/master/app/myapp.plist">ios app download</a>
