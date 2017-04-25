@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+下载安装ios应用[ios app](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/youkebing/app/master/app/myapp.plist)
+
 You can use the [editor on GitHub](https://github.com/youkebing/app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
