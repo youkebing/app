@@ -1,10 +1,6 @@
 ## Welcome to GitHub Pages
 
-<h1 style="font-size:80pt">如果点击无法下载安装，请复制超链接到浏览器中打开<h1/>
-<h1 style="font-size:100pt">
-<a title="iPhone" href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/youkebing/app/master/app/myapp.plist">
-Iphone Download</a><h1/>
-
+Iphone Download
 
 You can use the [editor on GitHub](https://github.com/youkebing/app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
