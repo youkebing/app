@@ -5,3 +5,6 @@ itms-services://?action=download-manifest&url=https://dn-你的空间名字.qbox
 
 
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/youkebing/app/master/app/myapp.plist
+
+
+https://github.com/youkebing/app/blob/master/README.md#iphone-download
