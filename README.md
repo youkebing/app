@@ -2,7 +2,7 @@
 
 [Iphone Download](app/app.html)
 
-[down lianjie](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/youkebing/app/master/app/myapp.plist)
+<a title="iPhone" href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/youkebing/app/master/app/myapp.plist">
 
 You can use the [editor on GitHub](https://github.com/youkebing/app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
